@@ -3,7 +3,7 @@ Solutions on Practical Data Science Specialization on Coursera (offered by deepl
 
 Access all courses in the Coursera [Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science) Specialization offered by `deeplearning.ai`.
 
-This repo contains the **SOLUTIONS** of exercises/labs for course 1.
+This repo contains the **SOLUTIONS** of labs for course 1.
 
 [C1 certificate.pdf](https://github.com/olalekanfayemi/-Practical-data-science-specialization/files/9755198/C1.certificate.pdf)
 
